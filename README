@@ -1,0 +1,2 @@
+This repo uses convolution neural network to predict the correct value of numbers from their image
+in the MNIST dataset. Prettytensor is used to build th CNN and the best fit model is stored in the checkpoint directory 
